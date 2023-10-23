@@ -1,0 +1,11 @@
+{
+    "name": "vendor/kata",
+    "description": "description",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Kata\\": "src/"
+        }
+    }
+}
