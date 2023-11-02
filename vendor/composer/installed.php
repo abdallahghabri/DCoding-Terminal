@@ -3,7 +3,7 @@
         'name' => 'vendor/kata',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '87ebd2b004fa19a533157a2f432e297ad18f9f1e',
+        'reference' => '5de94c928d60f34526dcad8ae5e5af9524d57a7c',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'vendor/kata' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '87ebd2b004fa19a533157a2f432e297ad18f9f1e',
+            'reference' => '5de94c928d60f34526dcad8ae5e5af9524d57a7c',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

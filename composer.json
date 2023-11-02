@@ -4,8 +4,6 @@
     "type": "project",
     "require": {},
     "autoload": {
-        "psr-4": {
-            "Vendor\\Kata\\": "src/"
-        }
+        "psr-4": {"App\\": "src/"}
     }
 }
